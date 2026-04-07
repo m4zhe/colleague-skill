@@ -1006,3 +1006,4 @@ After confirmation:
 rm -rf colleagues/{slug}
 ```
 test
+test2
