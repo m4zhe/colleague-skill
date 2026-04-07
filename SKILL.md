@@ -1005,3 +1005,4 @@ After confirmation:
 ```bash
 rm -rf colleagues/{slug}
 ```
+test
